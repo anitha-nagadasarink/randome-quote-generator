@@ -28,12 +28,12 @@ A Quote generator app on each refresh that gives us different quotes.
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://new-random-password-generator.netlify.app/)
+[Live Link !](https://random-quote-generator-app-js.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo.PNG)
-![Min Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-1.PNG)
-![Max Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-2.PNG)
+![App Image](https://github.com/anitha-nagadasarink/randome-quote-generator/blob/Javascript-projects/images/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/randome-quote-generator/blob/Javascript-projects/images/demo-1.PNG)
+
 
 
