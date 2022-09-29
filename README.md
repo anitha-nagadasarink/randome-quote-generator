@@ -3,7 +3,7 @@
 
 This project developed with pure HTML and TailwindCSS mainly focused on Pure Javascript. <br/>
 
-A Quote generator app on each refresh that gives us different quotes.  
+A Quote generator app on each refresh that gives us different quotes with speak and copy features.  
 
 <br/>
 
@@ -16,10 +16,10 @@ A Quote generator app on each refresh that gives us different quotes.
 <br/>
 
 # Concepts used 
-- Event listner
+- Promises
 - fetch()
-- json()
-- promises 
+- SpeechSynthesisUtterance(): rate, picth, text, speak()
+-  navigator.clipboard.writeText
 
 
 # Time taken to finish this project :
