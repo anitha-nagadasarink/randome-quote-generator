@@ -24,7 +24,7 @@ A Quote generator app on each refresh that gives us different quotes with speak 
 
 # Time taken to finish this project :
 
-2 hour to finish this project.
+4 hour to finish this project.
 
 ### You can Check it Live on Below Link :
 
@@ -34,6 +34,3 @@ A Quote generator app on each refresh that gives us different quotes with speak 
 
 ![App Image](https://github.com/anitha-nagadasarink/randome-quote-generator/blob/Javascript-projects/images/demo.PNG)
 ![App Image](https://github.com/anitha-nagadasarink/randome-quote-generator/blob/Javascript-projects/images/demo-1.PNG)
-
-
-
